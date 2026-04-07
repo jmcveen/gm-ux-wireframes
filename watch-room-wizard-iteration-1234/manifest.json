@@ -1,0 +1,37 @@
+{
+  "projectId": "15918996075581865910",
+  "screens": [
+    {
+      "index": 1,
+      "name": "wizard-headlines-step",
+      "title": "Wizard: Headlines Step",
+      "screenshot": "https://lh3.googleusercontent.com/aida/ADBb0uhSv9DmboxSr6_lTY82AnFkeO-OTjybg8lbDkAYNR8Y5njrDKILZclt_UGcOEEURARWI3GcYNJi3DINtz_HdNuCeZ-Ahw7d8oqdV07edTAjBwmdctojvew18ui2JLjMXlc4sMrqb8sL2-kCYdXVhqWgLDWPiF-FRqzXfq_OK-wWLzCj1rhSZKB9Rrdvt2xCJWlRpHHIBfM52ERz9F_MtlXMo3vF4TypC5Fdi7Gs9DfuriviZtP8qgXzA5fa",
+      "html": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzA4MzYwNmY3NjM1MzRiMWY4MTdlZTE2NjAxODU1YzhmEgsSBxDFra3Z5QgYAZIBJAoKcHJvamVjdF9pZBIWQhQxNTkxODk5NjA3NTU4MTg2NTkxMA&filename=&opi=96797242",
+      "local": "/home/joe/gm-agents/agents/sage/workspace/wireframes/watch-room/01-wizard-headlines-step.png"
+    },
+    {
+      "index": 2,
+      "name": "wizard-branding-step",
+      "title": "Wizard: Branding Step",
+      "screenshot": "https://lh3.googleusercontent.com/aida/ADBb0ui5RAt5GQfAv879CI5RkC_fAAqfu0JdXn1-ay-EfA60r9A-4YcdXETKEANsU-GgTaSXgfT1D8qVwP3pG60cTbrIQiPREBt2eeHHp8iQPFRKYFSqACQZQIyz2K4B21-a3wHxXesSMNVWvs7w1hRbiTEklqALTYxc94yC7z8Uyh64TVIqN1Yi-u4nWc7m1-uwpgygrS4klKRP4Izlpe-ui5_f2tYHoND0hQ4vUDp5h6cBqcMZJJJbUtoPXgtY",
+      "html": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sX2ViYjUxMjEzNjUxODRjMDk4YzNjY2I2NDAyMTdmOTZkEgsSBxDFra3Z5QgYAZIBJAoKcHJvamVjdF9pZBIWQhQxNTkxODk5NjA3NTU4MTg2NTkxMA&filename=&opi=96797242",
+      "local": "/home/joe/gm-agents/agents/sage/workspace/wireframes/watch-room/02-wizard-branding-step.png"
+    },
+    {
+      "index": 3,
+      "name": "wizard-welcome-chat-step",
+      "title": "Wizard: Welcome & Chat Step",
+      "screenshot": "https://lh3.googleusercontent.com/aida/ADBb0uiJzV6JfskKRdLKMrb59-kXAMAuvaBZyMcW79OyW4kuOoVeMRG9AMS0JMZwgRRpsY1Wnbnr6OxRVu5QagUG6o5vXkLKJwm7rppqGzi-XxeZt7jLg1xx_M-aXAVj6xTS2R85wBeFx7SvDX_AQ9sOv1awvKT2XakeGP9UmGpduXqgOP_gJcUMPQ9P0srGqxrp-GAXhhKQwQb6wrAEcv_z2JuiEkAmwiKyT1He3L1GcqR-sAdWp3opLlfPkDTx",
+      "html": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sX2E4ZmRmYTc2YWZhNDQyMGFhNDI0NjQ2M2JhOTFmZDRiEgsSBxDFra3Z5QgYAZIBJAoKcHJvamVjdF9pZBIWQhQxNTkxODk5NjA3NTU4MTg2NTkxMA&filename=&opi=96797242",
+      "local": "/home/joe/gm-agents/agents/sage/workspace/wireframes/watch-room/03-wizard-welcome-chat-step.png"
+    },
+    {
+      "index": 4,
+      "name": "attendee-watch-room",
+      "title": "Attendee Watch Room (Dark Mode)",
+      "screenshot": "https://lh3.googleusercontent.com/aida/ADBb0ujWkXRC5gKcP_UDceGzG0F3XRpGJ0-dxRl9Vw1y5QHxzQ85nNhp2m9sr-QhPBsPgWNRSxTEcyQTy3wjpesJoiJZSfxK_f1kOM5ypjP0pNz0wXYhzQ6-ixB-Jyf4kPwg13fJO9gUcbYSctzRbB3lrDZbu3wdSl41LAi01mh1ZP3QLAVq5H4m0gNlYElkmczFVsmQIhONbgJhARUtFFJwdCMcsGYeps4yP8sP67sDRejUJfjAkzXL06bSK9Ey",
+      "html": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzgzYzBkYWM2OGZlMTQ4MmRhMmZjYjNhNTEwY2E0N2RiEgsSBxDFra3Z5QgYAZIBJAoKcHJvamVjdF9pZBIWQhQxNTkxODk5NjA3NTU4MTg2NTkxMA&filename=&opi=96797242",
+      "local": "/home/joe/gm-agents/agents/sage/workspace/wireframes/watch-room/04-attendee-watch-room.png"
+    }
+  ]
+}
